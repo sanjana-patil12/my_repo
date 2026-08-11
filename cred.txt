@@ -1,2 +1,0 @@
-username = sanjana12
-password = Pass@123#
